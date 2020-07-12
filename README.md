@@ -1,6 +1,6 @@
 # Life-little-helper
 
-IOS class final object
+IOS class final project
 
 ## Description
 
